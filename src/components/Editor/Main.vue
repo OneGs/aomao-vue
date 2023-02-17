@@ -19,7 +19,7 @@ import Engine, {
   EngineInterface,
   isMobile,
   removeUnit,
-} from "@aomao/engine";
+} from "@/aomao/engine/src";
 import AmToolbar from "@aomao/toolbar-vue";
 import AmLoading from "./Loading.vue";
 import { cards, plugins, pluginConfig, onLoad } from "./config";

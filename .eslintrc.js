@@ -22,6 +22,15 @@ module.exports = {
     "@typescript-eslint/no-unused-vars": "off",
     "no-useless-escape": "off",
     "no-empty": "off",
-    "prefer-const": "off"
+    "prefer-const": "off",
+    "@typescript-eslint/ban-types": "off",
+    "@typescript-eslint/adjacent-overload-signatures": "off",
+    "@typescript-eslint/no-empty-function": "off",
+    "no-prototype-builtins": "off",
+    "no-async-promise-executor": "off",
+    "no-constant-condition": "off",
+    "@typescript-eslint/no-non-null-asserted-optional-chain": "off",
+    "no-self-assign": "off",
+    "no-case-declarations": "off",
   },
 };

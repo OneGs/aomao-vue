@@ -1,0 +1,36 @@
+{
+  "name": "@aomao/plugin-lightblock",
+  "version": "1.0.5",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "lib",
+    "src"
+  ],
+  "author": "hemingming.byte@bytedance.com",
+  "license": "MIT",
+  "homepage": "https://github.com/yanmao-cc/am-editor#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanmao-cc/am-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yanmao-cc/am-editor/issues"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.13.10",
+    "markdown-it-container": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/markdown-it-container": "^2.0.5",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "peerDependencies": {
+    "@aomao/engine": ">=^2.9",
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  }
+}

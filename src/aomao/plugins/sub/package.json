@@ -1,0 +1,32 @@
+{
+  "name": "@aomao/plugin-sub",
+  "version": "2.9.28",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "lib",
+    "src"
+  ],
+  "author": "me@aomao.com",
+  "license": "MIT",
+  "homepage": "https://github.com/yanmao-cc/am-editor#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanmao-cc/am-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yanmao-cc/am-editor/issues"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.13.10",
+    "markdown-it-sub": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^12.2.3"
+  },
+  "peerDependencies": {
+    "@aomao/engine": ">=2.9"
+  }
+}

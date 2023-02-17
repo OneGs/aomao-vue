@@ -1,0 +1,36 @@
+{
+  "name": "@aomao/plugin-math",
+  "version": "2.9.29",
+  "description": "Math（数学公式）",
+  "keywords": [
+    "Math"
+  ],
+  "author": "ITELLYOU <me@aomao.com>",
+  "homepage": "https://github.com/yanmao-cc/am-editor/tree/main/plugins/plugin-math#readme",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "lib",
+    "src"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanmao-cc/am-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yanmao-cc/am-editor/issues"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.13.10",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.178"
+  },
+  "peerDependencies": {
+    "@aomao/engine": ">=2.9"
+  }
+}

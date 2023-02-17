@@ -6,7 +6,7 @@ import {
   isEngine,
   NodeInterface,
   ToolbarItemOptions,
-} from "@aomao/engine";
+} from "@/aomao/engine/src";
 import { App, createApp } from "vue";
 import TestVue from "./test.vue";
 
