@@ -732,6 +732,7 @@ class Block implements BlockModelInterface {
       const globals = schema.data.globals["block"] || {};
       const oldAttributes = startNode.attributes();
       Object.keys(oldAttributes).forEach((name) => {
+        //@ts-ignore
         if (name !== DATA_ID && name !== "id" && globals["name"]) {
           newBlock.attributes(name, oldAttributes[name]);
         }

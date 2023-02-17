@@ -7,48 +7,56 @@ import {
   EngineInterface,
 } from "@/aomao/engine/src";
 //引入插件 begin
-import Redo from "@aomao/plugin-redo";
-import Undo from "@aomao/plugin-undo";
-import Bold from "@aomao/plugin-bold";
-import Code from "@aomao/plugin-code";
-import Backcolor from "@aomao/plugin-backcolor";
-import Fontcolor from "@aomao/plugin-fontcolor";
-import Fontsize from "@aomao/plugin-fontsize";
-import Italic from "@aomao/plugin-italic";
-import Underline from "@aomao/plugin-underline";
-import Hr, { HrComponent } from "@aomao/plugin-hr";
-import Tasklist, { CheckboxComponent } from "@aomao/plugin-tasklist";
-import Orderedlist from "@aomao/plugin-orderedlist";
-import Unorderedlist from "@aomao/plugin-unorderedlist";
-import Indent from "@aomao/plugin-indent";
-import Heading from "@aomao/plugin-heading";
-import Strikethrough from "@aomao/plugin-strikethrough";
-import Sub from "@aomao/plugin-sub";
-import Sup from "@aomao/plugin-sup";
-import Alignment from "@aomao/plugin-alignment";
-import Mark from "@aomao/plugin-mark";
-import Quote from "@aomao/plugin-quote";
-import PaintFormat from "@aomao/plugin-paintformat";
-import RemoveFormat from "@aomao/plugin-removeformat";
-import SelectAll from "@aomao/plugin-selectall";
-import Link from "@aomao/plugin-link-vue";
-import Codeblock, { CodeBlockComponent } from "@aomao/plugin-codeblock-vue";
-import Image, { ImageComponent, ImageUploader } from "@aomao/plugin-image";
-import Table, { TableComponent } from "@aomao/plugin-table";
-import File, { FileComponent, FileUploader } from "@aomao/plugin-file";
-import Video, { VideoComponent, VideoUploader } from "@aomao/plugin-video";
-import Math, { MathComponent } from "@aomao/plugin-math";
-import Fontfamily from "@aomao/plugin-fontfamily";
-import Status, { StatusComponent } from "@aomao/plugin-status";
-import LineHeight from "@aomao/plugin-line-height";
-import Mention, { MentionComponent } from "@aomao/plugin-mention";
-import MarkRange from "@aomao/plugin-mark-range";
+import Redo from "@/aomao/plugins/redo/src";
+import Undo from "@/aomao/plugins/undo/src";
+import Bold from "@/aomao/plugins/bold/src";
+import Code from "@/aomao/plugins/code/src";
+import Backcolor from "@/aomao/plugins/backcolor/src";
+import Fontcolor from "@/aomao/plugins/fontcolor/src";
+import Fontsize from "@/aomao/plugins/fontsize/src";
+import Italic from "@/aomao/plugins/italic/src";
+import Underline from "@/aomao/plugins/underline/src";
+import Hr, { HrComponent } from "@/aomao/plugins/hr/src";
+import Tasklist, { CheckboxComponent } from "@/aomao/plugins/tasklist/src";
+import Orderedlist from "@/aomao/plugins/orderedlist/src";
+import Unorderedlist from "@/aomao/plugins/unorderedlist/src";
+import Indent from "@/aomao/plugins/indent/src";
+import Heading from "@/aomao/plugins/heading/src";
+import Strikethrough from "@/aomao/plugins/strikethrough/src";
+import Sub from "@/aomao/plugins/sub/src";
+import Sup from "@/aomao/plugins/sup/src";
+import Alignment from "@/aomao/plugins/alignment/src";
+import Mark from "@/aomao/plugins/mark/src";
+import Quote from "@/aomao/plugins/quote/src";
+import PaintFormat from "@/aomao/plugins/paintformat/src";
+import RemoveFormat from "@/aomao/plugins/removeformat/src";
+import SelectAll from "@/aomao/plugins/selectall/src";
+import Link from "@/aomao/plugins/link-vue/src";
+import Codeblock, {
+  CodeBlockComponent,
+} from "@/aomao/plugins/codeblock-vue/src";
+import Image, {
+  ImageComponent,
+  ImageUploader,
+} from "@/aomao/plugins/image/src";
+import Table, { TableComponent } from "@/aomao/plugins/table/src";
+import File, { FileComponent, FileUploader } from "@/aomao/plugins/file/src";
+import Video, {
+  VideoComponent,
+  VideoUploader,
+} from "@/aomao/plugins/video/src";
+import Math, { MathComponent } from "@/aomao/plugins/math/src";
+import Fontfamily from "@/aomao/plugins/fontfamily/src";
+import Status, { StatusComponent } from "@/aomao/plugins/status/src";
+import LineHeight from "@/aomao/plugins/line-height/src";
+import Mention, { MentionComponent } from "@/aomao/plugins/mention/src";
+import MarkRange from "@/aomao/plugins/mark-range/src";
 import Test, { TestComponent } from "@/plugins/test";
 import {
   ToolbarPlugin,
   ToolbarComponent,
   fontFamilyDefaultData,
-} from "@aomao/toolbar-vue";
+} from "@/aomao/toolbar-vue/src";
 
 import { Empty } from "ant-design-vue";
 import { createApp } from "vue";

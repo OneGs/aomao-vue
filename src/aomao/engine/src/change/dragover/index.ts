@@ -38,6 +38,7 @@ class DragoverHelper {
       const range = Range.create(this.engine, doc, { x, y });
       if (range) return range;
     }
+    //@ts-ignore
     if (event && event["rangeParent"] !== undefined) {
       const range = Range.create(this.engine, doc);
       range.setStart(event["rangeParent"], event["rangeOffset"]);

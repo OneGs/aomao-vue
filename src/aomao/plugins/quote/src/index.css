@@ -1,0 +1,13 @@
+.am-engine blockquote, .am-engine-view blockquote {
+    margin: 5px 0 5px 0;
+    border-left: 3px solid #eee;
+    opacity: 0.6;
+}
+
+.am-engine blockquote + blockquote, .am-engine-view blockquote + blockquote {
+    margin-top: -5px;
+}
+
+.am-engine blockquote > *, .am-engine-view blockquote > * {
+    margin-left: 14px;
+}

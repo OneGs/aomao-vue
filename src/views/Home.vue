@@ -41,7 +41,7 @@ import {
   EngineInterface,
   NodeInterface,
   Range,
-} from "@aomao/engine";
+} from "@/aomao/engine/src";
 import Editor from "@/components/Editor/Main.vue"; // @ is an alias to /src
 import { setCurrentKey, getDocValue } from "@/utils";
 

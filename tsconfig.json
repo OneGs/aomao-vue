@@ -35,6 +35,24 @@
     "tests/**/*.tsx"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "/src/aomao"
+  ],
+  "types": [
+    "node",
+    "tinycolor2",
+    "codemirror",
+    "diff-match-patch",
+    "is-hotkey",
+    "keymaster",
+    "lodash",
+    "markdown-it",
+    "markdown-it-container",
+    "mermaid",
+    "murmurhash-js",
+    "photoswipe",
+    "react-beautiful-dnd",
+    "react-dom",
+    "sharedb"
   ]
 }

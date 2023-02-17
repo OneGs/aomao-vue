@@ -19,8 +19,8 @@ import Engine, {
   EngineInterface,
   isMobile,
   removeUnit,
-} from "@aomao/engine";
-import AmToolbar from "@aomao/toolbar-vue";
+} from "@/aomao/engine/src";
+import AmToolbar from "@/aomao/toolbar-vue/src";
 import AmLoading from "./Loading.vue";
 import { cards, plugins, pluginConfig, onLoad } from "./config";
 import { getDocValue, setDocValue } from "@/utils";

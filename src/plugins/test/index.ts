@@ -8,7 +8,7 @@ import {
   PluginOptions,
   decodeCardValue,
   encodeCardValue,
-} from "@aomao/engine";
+} from "@/aomao/engine/src";
 import TestComponent from "./component";
 
 export interface Options extends PluginOptions {

@@ -36,6 +36,7 @@ class CardToolbar implements CardToolbarInterface {
   private offset?: Array<number>;
   private position: Position;
   private dndPosition: Position;
+
   #hideTimeout: NodeJS.Timeout | null = null;
   #showTimeout: NodeJS.Timeout | null = null;
   #defaultAlign: keyof typeof placements = "topLeft";
