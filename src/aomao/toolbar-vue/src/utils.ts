@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EngineInterface } from "@/aomao/engine/src";
 
 export const autoGetHotkey = (

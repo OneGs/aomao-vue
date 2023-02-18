@@ -1,3 +1,4 @@
+// @ts-nocheck
 import isHotkey from "is-hotkey";
 import { TypingHandleInterface } from "../../types";
 import Default from "./default";

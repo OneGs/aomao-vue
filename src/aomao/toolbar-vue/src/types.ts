@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { EngineInterface, Placement } from "@/aomao/engine/src";
 import { ExtractPropTypes, PropType, VNode } from "vue";
 import omit from "lodash/omit";

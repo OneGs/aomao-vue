@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { TableMenu } from "../types";
 
 export default (locale: { [key: string]: string }): TableMenu => {

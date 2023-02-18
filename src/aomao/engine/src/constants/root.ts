@@ -1,3 +1,4 @@
+// @ts-nocheck
 export const DATA_ELEMENT = "data-element";
 export const DATA_ID = "data-id";
 

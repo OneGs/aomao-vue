@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface } from "../types";
 import { DATA_ID } from "../constants";
 

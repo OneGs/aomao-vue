@@ -1,3 +1,4 @@
+// @ts-nocheck
 import "codemirror/mode/shell/shell";
 import "codemirror/mode/clike/clike";
 import "codemirror/mode/css/css";

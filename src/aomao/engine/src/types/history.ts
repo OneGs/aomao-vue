@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { RangePath } from "./range";
 import { Operation, TargetOp } from "./ot";
 

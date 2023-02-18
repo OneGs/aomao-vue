@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface, TypingHandleInterface } from "../../types";
 import { $ } from "../../node";
 import DefaultKeydown from "./default";

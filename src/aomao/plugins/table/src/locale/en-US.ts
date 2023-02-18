@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   table: {
     insertColLeft: "Insert column(s) $data left",

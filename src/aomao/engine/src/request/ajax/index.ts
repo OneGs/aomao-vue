@@ -1,3 +1,4 @@
+// @ts-nocheck
 import startsWith from "lodash/startsWith";
 import { getDocument } from "../../utils";
 import {

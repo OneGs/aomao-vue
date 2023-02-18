@@ -1,3 +1,4 @@
+// @ts-nocheck
 import cloneDeep from "lodash/cloneDeep";
 import debounce from "lodash/debounce";
 import findLastIndex from "lodash/findLastIndex";

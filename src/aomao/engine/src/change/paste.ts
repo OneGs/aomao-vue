@@ -1,3 +1,4 @@
+// @ts-nocheck
 import tinycolor2 from "tinycolor2";
 import type { MarkInterface, NodeInterface, SchemaInterface } from "../types";
 import {

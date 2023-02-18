@@ -1,3 +1,4 @@
+// @ts-nocheck
 export * from "./card";
 export * from "./change";
 export * from "./clipboard";

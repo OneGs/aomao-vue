@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   table: {
     insertColLeft: "左边插入 $data 列",

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorInterface, EditorOptions } from "./editor";
 import { NodeInterface } from "./node";
 

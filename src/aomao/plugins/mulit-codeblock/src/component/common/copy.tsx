@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useEffect, useRef, useState } from "react";
 import { message } from "antd";
 import Clipboard from "clipboard";

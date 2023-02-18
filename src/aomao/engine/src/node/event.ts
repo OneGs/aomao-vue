@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EventInterface, EventListener } from "../types/node";
 
 /**

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import cloneDeep from "lodash/cloneDeep";
 import { getStyleMap } from "../utils";
 import { DATA_ELEMENT } from "../constants";

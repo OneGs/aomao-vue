@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
 import { cmTheme } from "../utils/index";

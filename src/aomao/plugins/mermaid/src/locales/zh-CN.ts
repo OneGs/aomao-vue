@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   cardToolBar: {
     displayBlockTitle: "独占一行",

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { createApp, App } from "vue";
 import { $, isEngine, isMobile, Range, UI_SELECTOR } from "@/aomao/engine/src";
 import type { NodeInterface, EditorInterface } from "@/aomao/engine/src";

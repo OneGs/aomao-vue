@@ -1,3 +1,4 @@
+// @ts-nocheck
 import DragoverHelper from "./dragover";
 import { EventListener, NodeInterface } from "../types/node";
 import isHotkey from "is-hotkey";

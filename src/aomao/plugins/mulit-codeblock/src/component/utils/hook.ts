@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useEffect, useRef, useState } from "react";
 import codeMirror, { Editor } from "codemirror";
 import { MulitLangItem, MulitCodeProps, MulitCodeblockValue } from "../type";

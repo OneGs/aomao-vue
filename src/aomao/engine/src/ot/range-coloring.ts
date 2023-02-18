@@ -1,3 +1,4 @@
+// @ts-nocheck
 import tinycolor2 from "tinycolor2";
 import { removeUnit, escape } from "../utils";
 import { TinyCanvas } from "../utils";

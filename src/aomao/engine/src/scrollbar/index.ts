@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EventEmitter2 } from "eventemitter2";
 import throttle from "lodash/throttle";
 import { DATA_ELEMENT, UI } from "../constants";

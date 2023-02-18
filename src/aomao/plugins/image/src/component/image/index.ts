@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { ImageOptions, PswpInterface } from "@/types";
 import type { EditorInterface, NodeInterface } from "@/aomao/engine/src";
 import {

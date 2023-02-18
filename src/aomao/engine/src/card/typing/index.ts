@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Enter from "./enter";
 import Backspace from "./backspace";
 import Left from "./left";

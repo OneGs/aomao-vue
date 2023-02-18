@@ -1,3 +1,4 @@
+// @ts-nocheck
 import isHotkey from "is-hotkey";
 import { NodeInterface } from "../types/node";
 import { InputInterface, InputOptions } from "../types/toolbar";

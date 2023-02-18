@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Entry from "./entry";
 import Event from "./event";
 import {

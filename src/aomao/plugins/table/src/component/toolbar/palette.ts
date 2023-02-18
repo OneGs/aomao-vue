@@ -1,3 +1,4 @@
+// @ts-nocheck
 class Palette {
   static colors: Array<Array<string>>;
   static _map: { [k: string]: { x: number; y: number } };

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CardValue, EditorInterface } from "@/aomao/engine/src";
 import { Editor } from "codemirror";
 

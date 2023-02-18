@@ -1,3 +1,4 @@
+// @ts-nocheck
 // 代码高亮css
 import "codemirror/lib/codemirror.css";
 import "codemirror/mode/shell/shell";

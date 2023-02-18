@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { BlockInterface, InlineInterface, MarkInterface } from ".";
 import { CardInterface } from "./card";
 import { ConversionData } from "./conversion";

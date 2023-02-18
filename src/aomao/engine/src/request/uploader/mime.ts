@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   "image/jpeg": ["jpeg", "jpg", "jpe"],
   "image/png": ["png"],

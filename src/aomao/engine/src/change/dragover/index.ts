@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { RangeInterface } from "../../types/range";
 import Range from "../../range";
 import { EngineInterface } from "../../types/engine";

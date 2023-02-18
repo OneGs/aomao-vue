@@ -1,3 +1,4 @@
+// @ts-nocheck
 import isHotkey from "is-hotkey";
 import {
   CARD_CENTER_SELECTOR,

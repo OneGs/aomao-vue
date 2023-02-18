@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   image: {
     next: "下一张",

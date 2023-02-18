@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorInterface } from "@/aomao/engine/src";
 import {
   CardInterface,

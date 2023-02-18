@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EngineInterface, PluginEntry } from "../../types";
 import Backspace from "./backspace";
 

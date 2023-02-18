@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EventEmitter2 } from "eventemitter2";
 import { Op } from "sharedb";
 import OTJSON from "ot-json0";

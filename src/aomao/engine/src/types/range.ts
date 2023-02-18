@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Path } from "sharedb";
 import { EditorInterface } from "./editor";
 import { NodeInterface } from "./node";

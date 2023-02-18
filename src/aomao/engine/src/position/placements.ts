@@ -1,3 +1,4 @@
+// @ts-nocheck
 const autoAdjustOverflow = {
   adjustX: true,
   adjustY: true,

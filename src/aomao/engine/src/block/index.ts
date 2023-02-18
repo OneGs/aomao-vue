@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   CARD_KEY,
   CARD_SELECTOR,

@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   video: {
     errorMessageCopy: "Copy error message",

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { h } from "vue";
 import {
   CARD_SELECTOR,

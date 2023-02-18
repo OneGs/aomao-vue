@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EngineInterface } from "./engine";
 
 export interface TypingHandle {

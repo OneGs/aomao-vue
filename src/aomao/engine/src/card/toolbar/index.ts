@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Toolbar, { Tooltip } from "../../toolbar";
 import type {
   EditorInterface,

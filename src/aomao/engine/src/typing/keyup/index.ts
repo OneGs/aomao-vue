@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { TypingHandle } from "../../types";
 import Enter from "./enter";
 import Default from "./default";

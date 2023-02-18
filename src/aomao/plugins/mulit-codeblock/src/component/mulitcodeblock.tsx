@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { FC } from "react";
 import { MulitCodeProps } from "./type";
 import CopyIcon from "./common/copy";

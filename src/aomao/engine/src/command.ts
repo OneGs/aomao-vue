@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { TRIGGER_CARD_ID, UI_SELECTOR } from "./constants";
 import { isMarkPlugin } from "./plugin";
 import {

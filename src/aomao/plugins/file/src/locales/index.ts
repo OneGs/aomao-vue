@@ -1,3 +1,4 @@
+// @ts-nocheck
 import en from "./en-US";
 import cn from "./zh-CN";
 

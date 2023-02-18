@@ -1,3 +1,4 @@
+// @ts-nocheck
 import isHotkey from "is-hotkey";
 import { Path } from "sharedb";
 import Engine from "./engine";

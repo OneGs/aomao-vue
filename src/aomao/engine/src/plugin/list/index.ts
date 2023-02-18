@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface, PluginOptions } from "../../types";
 import { CARD_KEY, READY_CARD_KEY } from "../../constants";
 import { ListInterface } from "../../types/list";

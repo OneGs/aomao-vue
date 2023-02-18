@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from "react";
 import classnames from "classnames-es-ts";
 import { isMobile, LanguageInterface } from "@/aomao/engine/src";

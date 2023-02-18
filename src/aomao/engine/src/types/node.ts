@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Path } from "sharedb";
 import { RangeInterface } from "./range";
 import { SchemaInterface, SchemaRule } from "./schema";

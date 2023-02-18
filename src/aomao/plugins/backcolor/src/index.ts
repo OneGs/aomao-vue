@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { $, MarkPlugin } from "@/aomao/engine/src";
 import type {
   PluginOptions,

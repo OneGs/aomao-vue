@@ -1,3 +1,4 @@
+// @ts-nocheck
 export type DrawStyle = {
   fill?: string;
   stroke?: string;

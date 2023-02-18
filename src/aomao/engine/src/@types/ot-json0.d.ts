@@ -1,3 +1,4 @@
+// @ts-nocheck
 declare module "ot-json0" {
   import { Op } from "sharedb";
 

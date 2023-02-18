@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { createApp, App } from "vue";
 import Keymaster, { deleteScope, setScope, unbind } from "keymaster";
 import {

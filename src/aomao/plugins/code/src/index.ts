@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type MarkdownIt from "markdown-it";
 import {
   NodeInterface,

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CardInterface } from "./card";
 import { NodeInterface } from "./node";
 import { BlockInterface } from "./block";

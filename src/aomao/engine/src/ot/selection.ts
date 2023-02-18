@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EventEmitter2 } from "eventemitter2";
 import isEqual from "lodash/isEqual";
 import { EngineInterface } from "../types/engine";

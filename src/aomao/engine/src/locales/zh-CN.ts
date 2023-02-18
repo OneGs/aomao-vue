@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   dnd: {
     title: "拖动调整位置",

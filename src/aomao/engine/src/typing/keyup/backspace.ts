@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { TypingHandleInterface } from "../../types";
 import DefaultKeyup from "./default";
 

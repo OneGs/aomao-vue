@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Keymaster, { setScope, unbind, deleteScope } from "keymaster";
 import {
   $,

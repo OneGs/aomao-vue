@@ -1,3 +1,4 @@
+// @ts-nocheck
 import isHotkey from "is-hotkey";
 import type { EngineInterface, HotkeyInterface } from "./types";
 

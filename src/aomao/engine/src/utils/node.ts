@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { DATA_ELEMENT, ROOT } from "../constants/root";
 import { NodeInterface } from "../types/node";
 

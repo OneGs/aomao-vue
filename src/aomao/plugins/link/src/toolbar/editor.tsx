@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useEffect, useRef, useState } from "react";
 import { LanguageInterface } from "@/aomao/engine/src";
 import Input, { InputRef } from "antd/es/input";

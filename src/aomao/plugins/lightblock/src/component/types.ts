@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CardValue } from "@/aomao/engine/src";
 
 export interface LightblockValue extends CardValue {

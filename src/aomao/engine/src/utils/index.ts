@@ -1,3 +1,4 @@
+// @ts-nocheck
 import MarkdownIt from "markdown-it";
 import Markdown from "markdown-it";
 import Token from "markdown-it/lib/token";

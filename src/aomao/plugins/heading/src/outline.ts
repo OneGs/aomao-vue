@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   getTextNodes,
   CARD_KEY,

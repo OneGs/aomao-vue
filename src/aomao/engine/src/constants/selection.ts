@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { DATA_ELEMENT } from "./root";
 
 export const ANCHOR = "anchor";

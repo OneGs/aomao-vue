@@ -1,3 +1,4 @@
+// @ts-nocheck
 import cloneDeep from "lodash/cloneDeep";
 import isEqual from "lodash/isEqual";
 import merge from "lodash/merge";

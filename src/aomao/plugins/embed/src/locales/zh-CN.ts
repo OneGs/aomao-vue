@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   embed: {
     placeholder: "请在此粘贴链接",

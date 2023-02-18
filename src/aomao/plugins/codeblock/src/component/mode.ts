@@ -1,3 +1,4 @@
+// @ts-nocheck
 import "./lang";
 
 const datas = [

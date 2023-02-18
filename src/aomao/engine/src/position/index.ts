@@ -1,3 +1,4 @@
+// @ts-nocheck
 import domAlign from "dom-align";
 import { EditorInterface, NodeInterface } from "../types";
 import { $ } from "../node";

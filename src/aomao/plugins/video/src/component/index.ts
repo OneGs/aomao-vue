@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { VideoOptions } from "@/types";
 import {
   CardToolbarItemOptions,

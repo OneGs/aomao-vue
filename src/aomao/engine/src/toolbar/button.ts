@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface } from "../types/node";
 import { ButtonInterface, ButtonOptions } from "../types/toolbar";
 import Tooltip from "./tooltip";

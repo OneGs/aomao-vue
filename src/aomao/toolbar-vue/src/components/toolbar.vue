@@ -28,6 +28,7 @@
   </div>
 </template>
 <script lang="ts">
+// @ts-nocheck
 import { defineComponent, onMounted, onUnmounted, ref, reactive } from "vue";
 import merge from "lodash/merge";
 import omit from "lodash/omit";

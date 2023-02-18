@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isEngine, MarkPlugin, PluginOptions } from "@/aomao/engine/src";
 import type MarkdownIt from "markdown-it";
 

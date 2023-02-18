@@ -33,6 +33,7 @@
   </div>
 </template>
 <script lang="ts">
+// @ts-nocheck
 import { defineComponent, onUnmounted, ref } from "vue";
 import { collapseProps } from "../../types";
 import { useRight } from "../../hooks";

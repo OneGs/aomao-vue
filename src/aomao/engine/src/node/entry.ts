@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ROOT_SELECTOR, EDITABLE_SELECTOR } from "../constants/root";
 import DOMEvent from "./event";
 import $ from "./parse";

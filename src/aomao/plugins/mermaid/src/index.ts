@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Plugin, isEngine, NodeInterface } from "@/aomao/engine/src";
 import type MarkdownIt from "markdown-it";
 import MermaidComponent from "./component";

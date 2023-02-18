@@ -1,3 +1,4 @@
+// @ts-nocheck
 import isHotkey from "is-hotkey";
 import { CardInterface, EngineInterface } from "../../types";
 import { CardType } from "../enum";

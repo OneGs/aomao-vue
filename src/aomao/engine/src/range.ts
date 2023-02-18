@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface } from "./types/node";
 import { RangeInterface, RangePath } from "./types/range";
 import { isMobile } from "./utils";

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { RangeInterface } from "./range";
 
 export type ClipboardData = {

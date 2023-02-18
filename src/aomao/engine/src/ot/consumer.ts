@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Range from "../range";
 import { unescapeDots, unescape } from "../utils/string";
 import { JSON0_INDEX } from "../constants/ot";

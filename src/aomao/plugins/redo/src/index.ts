@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isEngine, Plugin, PluginOptions } from "@/aomao/engine/src";
 
 export interface RedoOptions extends PluginOptions {

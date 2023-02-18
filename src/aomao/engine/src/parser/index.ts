@@ -1,3 +1,4 @@
+// @ts-nocheck
 import tinycolor from "tinycolor2";
 import { NodeInterface } from "../types/node";
 import { DATA_ELEMENT, DATA_ID, EDITABLE, UI } from "../constants/root";

@@ -1,3 +1,4 @@
+// @ts-nocheck
 // Markdown-it plugin to render GitHub-style task lists; see
 import type MarkdownIt from "markdown-it";
 import type Token from "markdown-it/lib/token";

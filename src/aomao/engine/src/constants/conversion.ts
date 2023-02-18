@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { DATA_ELEMENT, DATA_ID, ROOT } from "./root";
 import $ from "../node/query";
 import { ConversionData } from "../types";

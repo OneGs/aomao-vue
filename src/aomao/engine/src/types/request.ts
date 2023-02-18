@@ -1,3 +1,4 @@
+// @ts-nocheck
 export type RequestDataValue = string | number | boolean | symbol | Blob;
 export type RequestData =
   | Record<string, RequestDataValue>

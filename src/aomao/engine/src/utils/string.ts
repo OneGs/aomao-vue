@@ -1,3 +1,4 @@
+// @ts-nocheck
 import tinycolor2 from "tinycolor2";
 import { ANCHOR, CURSOR, FOCUS } from "../constants/selection";
 import {

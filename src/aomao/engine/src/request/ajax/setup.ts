@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { XML_HTTP_REQUEST } from "./constants";
 
 export default {

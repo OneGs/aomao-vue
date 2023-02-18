@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { StatusOptions } from "@/types";
 import { CardValue } from "@/aomao/engine/src";
 import {

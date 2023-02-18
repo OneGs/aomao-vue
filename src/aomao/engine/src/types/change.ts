@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EventListener, NodeInterface } from "./node";
 import { CardInterface } from "./card";
 import { RangeInterface, RangePath } from "./range";

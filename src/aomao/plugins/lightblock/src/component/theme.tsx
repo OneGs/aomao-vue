@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from "react";
 import { useMemo, useState, useRef } from "react";
 import { IThemeProp } from "./types";

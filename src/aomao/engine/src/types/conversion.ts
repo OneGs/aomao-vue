@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface } from "./node";
 /**
  * 转换器值的源类型

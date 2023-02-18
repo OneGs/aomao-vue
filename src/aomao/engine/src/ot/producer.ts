@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   DIFF_DELETE,
   DIFF_EQUAL,

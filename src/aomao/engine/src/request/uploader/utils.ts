@@ -1,3 +1,4 @@
+// @ts-nocheck
 import filesize from "filesize";
 import { isWindows } from "../../utils";
 import mime from "./mime";

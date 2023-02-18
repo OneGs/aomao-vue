@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EmbedOptions, EmbedRenderBeforeEvent } from "@/types";
 import {
   $,

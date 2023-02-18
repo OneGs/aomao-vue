@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface } from "../../types/node";
 import { DropdownButtonOptions } from "../../types/toolbar";
 import { $ } from "../../node";

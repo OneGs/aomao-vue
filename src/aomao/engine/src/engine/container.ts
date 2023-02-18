@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   DATA_CONTENTEDITABLE_KEY,
   EDITABLE_SELECTOR,

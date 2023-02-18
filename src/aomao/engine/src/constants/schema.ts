@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { SchemaBlock, SchemaGlobal, SchemaRule } from "../types";
 import {
   CARD_EDITABLE_KEY,

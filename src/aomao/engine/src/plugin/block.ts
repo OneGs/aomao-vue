@@ -1,3 +1,4 @@
+// @ts-nocheck
 import ElementPluginEntry from "./element";
 import type {
   SchemaBlock,

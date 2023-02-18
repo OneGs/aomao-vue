@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface } from "../types/node";
 import { SwitchOptions } from "../types/toolbar";
 import { $ } from "../node";

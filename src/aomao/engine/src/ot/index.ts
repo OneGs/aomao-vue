@@ -1,3 +1,4 @@
+// @ts-nocheck
 import debounce from "lodash/debounce";
 import cloneDeep from "lodash/cloneDeep";
 import { EventEmitter2 } from "eventemitter2";

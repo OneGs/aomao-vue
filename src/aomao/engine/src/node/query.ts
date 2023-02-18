@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Node from "./entry";
 import { NodeInterface, Selector, Context, NodeEntry } from "../types/node";
 import { getDocument } from "../utils/node";

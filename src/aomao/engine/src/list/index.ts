@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CARD_KEY, DATA_ID } from "../constants";
 import Range from "../range";
 import {

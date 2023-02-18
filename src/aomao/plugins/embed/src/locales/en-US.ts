@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   embed: {
     placeholder: "Please paste the link here",

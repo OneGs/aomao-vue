@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isMobile } from "../../utils";
 import Default from "./default";
 

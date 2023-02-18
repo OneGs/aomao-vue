@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * 获取列表样式
  * @param type 类型

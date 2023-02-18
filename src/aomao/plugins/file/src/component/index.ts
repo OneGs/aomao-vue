@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { FileOptions, FileValue } from "../types";
 import {
   $,

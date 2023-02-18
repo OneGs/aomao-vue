@@ -1,3 +1,4 @@
+// @ts-nocheck
 import debounce from "lodash/debounce";
 import {
   $,

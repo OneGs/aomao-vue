@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { ImageOptions } from "../types";
 import {
   Card,

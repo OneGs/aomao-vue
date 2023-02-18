@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { PswpInterface } from "@/types";
 import { $, EditorInterface, Tooltip } from "@/aomao/engine/src";
 

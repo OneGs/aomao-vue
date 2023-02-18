@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Mermaid from "mermaid";
 import murmur3 from "murmurhash-js";
 

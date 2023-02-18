@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   $,
   DATA_TRANSIENT_ELEMENT,

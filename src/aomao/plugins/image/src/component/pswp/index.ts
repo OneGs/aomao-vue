@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EventEmitter2 } from "eventemitter2";
 import PhotoSwipe from "photoswipe";
 import PhotoSwipeUI from "photoswipe/dist/photoswipe-ui-default";

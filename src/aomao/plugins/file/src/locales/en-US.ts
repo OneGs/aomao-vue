@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   file: {
     errorMessageCopy: "Copy error message",

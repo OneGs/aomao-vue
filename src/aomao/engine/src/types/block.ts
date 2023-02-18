@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface } from "./node";
 import { ElementPluginInterface, PluginOptions } from "./plugin";
 import { RangeInterface } from "./range";

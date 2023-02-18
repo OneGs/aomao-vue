@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorInterface } from "./editor";
 import { NodeInterface } from "./node";
 import { TinyCanvasInterface } from "./tiny-canvas";

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import hashId from "./hash";
 import {
   EditorInterface,

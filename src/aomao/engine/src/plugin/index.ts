@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EditorInterface } from "../types/editor";
 import {
   ElementPluginInterface,

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { MarkPlugin, PluginOptions } from "@/aomao/engine/src";
 
 export interface FontcolorOptions extends PluginOptions {

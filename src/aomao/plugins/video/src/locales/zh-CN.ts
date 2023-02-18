@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   video: {
     errorMessageCopy: "复制错误信息",

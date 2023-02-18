@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Selector, Context } from "../types/node";
 import { getDocument } from "../utils/node";
 import { isNode, isNodeEntry, isNodeList } from "../node/utils";

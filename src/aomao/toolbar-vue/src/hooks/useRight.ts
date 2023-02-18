@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ref, onMounted, Ref } from "vue";
 import { isMobile } from "@/aomao/engine/src";
 

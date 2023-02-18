@@ -1,3 +1,4 @@
+// @ts-nocheck
 import copyTo from "copy-to-clipboard";
 import { EditorInterface, EngineInterface, ClipboardInterface } from "./types";
 import { RangeInterface } from "./types/range";

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import merge from "lodash/merge";
 import type { LanguageInterface } from "./types";
 

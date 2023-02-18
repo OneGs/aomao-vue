@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { escape } from "../utils/string";
 class TextParser {
   source: any;

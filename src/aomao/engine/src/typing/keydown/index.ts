@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EngineInterface, TypingHandle } from "../../types";
 import Backspace from "./backspace";
 import Default from "./default";

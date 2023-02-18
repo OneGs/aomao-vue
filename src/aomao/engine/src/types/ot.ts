@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EventEmitter2 } from "eventemitter2";
 import { Doc, Op, Path, ShareDBSourceOptions } from "sharedb";
 import { Callback, Type } from "sharedb/lib/sharedb";

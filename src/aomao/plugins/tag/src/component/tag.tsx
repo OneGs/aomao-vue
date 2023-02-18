@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useMemo, useState } from "react";
 import { TagValue, IType } from "./type";
 import Popover from "antd/es/popover/index";

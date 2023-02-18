@@ -1,3 +1,4 @@
+// @ts-nocheck
 export interface ResizerInterface {
   on(eventType: string, listener: EventListener): void;
   off(eventType: string, listener: EventListener): void;

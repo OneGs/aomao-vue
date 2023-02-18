@@ -1,3 +1,4 @@
+// @ts-nocheck
 import {
   ANCHOR,
   ANCHOR_SELECTOR,

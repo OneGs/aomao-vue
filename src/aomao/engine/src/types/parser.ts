@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ConversionInterface } from "./conversion";
 import { NodeInterface } from "./node";
 import { SchemaInterface } from "./schema";

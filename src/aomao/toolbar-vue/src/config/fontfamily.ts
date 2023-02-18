@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { DropdownListItem } from "../types";
 import { checkSupportFontFamily } from "../utils";
 

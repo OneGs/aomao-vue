@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CardInterface } from "../types/card";
 import { EditorInterface } from "../types/editor";
 import { PluginOptions, PluginInterface } from "../types/plugin";

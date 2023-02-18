@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface } from "../types/node";
 import {
   ChangeInterface,

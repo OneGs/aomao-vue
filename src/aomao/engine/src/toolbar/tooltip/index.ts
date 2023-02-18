@@ -1,3 +1,4 @@
+// @ts-nocheck
 import domAlign from "dom-align";
 import { DATA_ELEMENT } from "../../constants/root";
 import { NodeInterface } from "../../types/node";

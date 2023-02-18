@@ -2,19 +2,20 @@
   "compilerOptions": {
     "target": "esnext",
     "module": "esnext",
-    "strict": true,
-    "jsx": "preserve",
-    "importHelpers": true,
     "moduleResolution": "node",
-    "experimentalDecorators": true,
+    "importHelpers": true,
+    "jsx": "react",
+    "allowJs": true,
     "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "noImplicitReturns": true,
+    "declaration": true,
+    "suppressImplicitAnyIndexErrors": true,
     "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
     "sourceMap": true,
-    "baseUrl": ".",
-    "types": [
-      "webpack-env"
-    ],
+    "baseUrl": "./",
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
     "paths": {
       "@/*": [
         "src/*"
@@ -36,10 +37,12 @@
   ],
   "exclude": [
     "node_modules",
-    "/src/aomao"
+    "src/aomao/**/*.ts",
+    "src/aomao/**/*.tsx",
+    "src/aomao/**/*.vue"
   ],
   "types": [
-    "node",
+   "node",
     "tinycolor2",
     "codemirror",
     "diff-match-patch",

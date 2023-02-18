@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default {
   dnd: {
     title: "Drag to reposition",

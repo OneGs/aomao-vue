@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Default from "./default";
 
 class ShiftTab extends Default {

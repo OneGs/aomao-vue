@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Editor, EditorConfiguration } from "codemirror";
 import { EditorInterface, NodeInterface } from "@/aomao/engine/src";
 

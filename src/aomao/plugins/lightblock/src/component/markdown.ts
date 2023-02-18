@@ -1,3 +1,4 @@
+// @ts-nocheck
 import container from "markdown-it-container";
 import type MarkdownIt from "markdown-it";
 import { encodeCardValue } from "@/aomao/engine/src";

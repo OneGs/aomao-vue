@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { NodeInterface, Selector, EventListener } from "./node";
 import { ChangeInterface } from "./change";
 import { OTInterface } from "./ot";

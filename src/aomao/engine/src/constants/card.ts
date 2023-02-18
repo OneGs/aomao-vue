@@ -1,3 +1,4 @@
+// @ts-nocheck
 export const CARD_TAG = "card";
 export const CARD_KEY = "data-card-key";
 export const READY_CARD_KEY = "data-ready-card";

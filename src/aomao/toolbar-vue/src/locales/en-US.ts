@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { isMacos } from "@/aomao/engine/src";
 
 export default {

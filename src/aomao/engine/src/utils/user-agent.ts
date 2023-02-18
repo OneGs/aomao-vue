@@ -1,3 +1,4 @@
+// @ts-nocheck
 const userAgent = (
   typeof navigator !== "undefined" ? navigator : window.navigator
 ).userAgent.toLowerCase();

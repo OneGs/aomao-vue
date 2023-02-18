@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { PluginOptions } from "@/aomao/engine/src";
 
 export interface StatusOptions extends PluginOptions {

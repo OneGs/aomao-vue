@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { RangeInterface, TypingHandleInterface } from "../../types";
 import { CARD_KEY } from "../../constants";
 import Range from "../../range";

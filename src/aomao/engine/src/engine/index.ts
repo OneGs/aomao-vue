@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Change from "../change";
 import { DATA_ELEMENT } from "../constants/root";
 import OT from "../ot";

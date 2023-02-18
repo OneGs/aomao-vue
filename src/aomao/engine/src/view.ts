@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ViewInterface, ViewOptions } from "./types/view";
 import Parser from "./parser";
 import Editor from "./editor";

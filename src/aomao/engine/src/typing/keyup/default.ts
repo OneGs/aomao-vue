@@ -1,3 +1,4 @@
+// @ts-nocheck
 import DefaultKeydown from "../keydown/default";
 
 class DefaultKeyup extends DefaultKeydown {
